@@ -1,0 +1,8 @@
+export { default as Header } from "./header"
+export { default as DesktopNav } from "./desktop-nav"
+export { default as MobileNav } from "./mobile-nav"
+export { default as PageTransition } from "./page-transition"
+export { default as Socials } from "./socials"
+export { default as Picture } from "./picture"
+export { default as ProfileStats } from "./profile-stats"
+export { default as SliderButtons } from "./slider-buttons"
