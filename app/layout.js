@@ -30,7 +30,7 @@ export default function RootLayout({ children }) {
             <Header />
             <PageTransition>
               {children}
-              <Toaster position="top-center" />
+              <Toaster position="bottom-center" />
             </PageTransition>
         </body>
     </html>
