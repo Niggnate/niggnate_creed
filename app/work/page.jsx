@@ -50,7 +50,7 @@ const projects = [
     ],
     image: "/assets/work/portfolio.png",
     live: "",
-    github: ""
+    github: "https://github.com/Niggnate/niggnate_creed"
   },{
     id: 3,
     count: "03",
