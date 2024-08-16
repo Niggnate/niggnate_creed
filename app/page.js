@@ -26,7 +26,7 @@ const Home = () => {
             <div className="flex flex-col xl:flex-row items-center gap-8">
               <a
                 className=" flex p-3 gap-3 border border-accent rounded-md justify-center items-center text-primary text-base bg-accent hover:text-accent hover:bg-primary hover:transition-all duration-500"
-                href='/assets/resume/prince_khanyile_cv_update_git.pdf'
+                href='/assets/resume/prince_khanyile_resume_software_developer.pdf'
                 download
               >
                 <span>Download Resume</span>
