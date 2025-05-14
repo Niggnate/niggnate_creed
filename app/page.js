@@ -8,7 +8,7 @@ import { FiDownload } from 'react-icons/fi'
 const Home = () => {
 
   const downloadHandler = () => {
-    window.location.href = "/assets/resume/PRINCE-KHANYILE-RESUME-PORTFOLIO.pdf"
+    window.location.href = "/assets/resume/PRINCE_KHANYILE_RESUME_PORTFOLIO.pdf"
   }
 
   return (
